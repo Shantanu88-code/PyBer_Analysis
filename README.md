@@ -17,10 +17,10 @@ After calculating all the metrics and combining them into one dataframe, we can 
 ![Fig7](https://user-images.githubusercontent.com/86980240/134592710-0af9f770-791e-4157-ab01-be51d4b0155f.png)
 
 
-<img width="373" alt="Screenshot (130)" src="https://user-images.githubusercontent.com/86980240/134603875-25aabc26-96ee-4880-85e3-016e0d4b98da.png">
+<img width="289" alt="Screenshot (133)" src="https://user-images.githubusercontent.com/86980240/134609993-e7fa4c3b-53cb-4c0b-9844-c6adca9d1aa3.png">
 
 
-<img width="346" alt="Screenshot (131)" src="https://user-images.githubusercontent.com/86980240/134604519-b9892240-6415-441e-8e2b-3f045f682894.png">
+<img width="278" alt="Screenshot (134)" src="https://user-images.githubusercontent.com/86980240/134610030-1a22eed0-a1ee-42d4-ae60-e90a3aecbaed.png">
 
 
 # Summary and Recommendations :
