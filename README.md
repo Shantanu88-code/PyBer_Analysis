@@ -17,7 +17,7 @@ After calculating all the metrics and combining them into one dataframe, we can 
 ![Fig7](https://user-images.githubusercontent.com/86980240/134592710-0af9f770-791e-4157-ab01-be51d4b0155f.png)
 
 
-![fig11](https://user-images.githubusercontent.com/86980240/134611176-b881513e-7b14-4d7d-bd58-4996bf733130.png)
+![fig12](https://user-images.githubusercontent.com/86980240/134611603-f2c356d0-0b54-4e69-b5db-58753d7bf8c6.png)
 
 
 <img width="289" alt="Screenshot (133)" src="https://user-images.githubusercontent.com/86980240/134609993-e7fa4c3b-53cb-4c0b-9844-c6adca9d1aa3.png">
