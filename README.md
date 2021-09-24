@@ -9,7 +9,7 @@ In this analysis, we are analyzing all the rideshare data from January to early 
 
 <img width="454" alt="Pyber challenge" src="https://user-images.githubusercontent.com/86980240/134590487-3b6e3756-1b15-46c3-9a39-da5f602e8dfd.png">
 
-After calculating all the metrics and combining them into one dataframe, we can see that Urabn cities had highest number of ride count, drivers count and fares. Pyber gets 62.7% of its fares from Urban cities as compared to 30.5% and 6.8% from Suburban and Rural cities respectively. However, average fare per ride and driver is comparably lower than Rural and Suburban. It can bee seen that Rural cities had lowest number of rides, drivers count and fares but it had highest amount of average fare per ride and driver as compared to other. Even though we are comparing three different city types where customers and demands are different, we see a particular trend that is, as the number of rides, drivers and total fares increase, the average fare per ride and per drivers also starts to decrease. This can be further supported by pie charts.
+After calculating all the metrics and combining them into one dataframe, we can see that Urabn cities had highest number of ride count, drivers count and fares. Pyber gets 62.7% of its fares from Urban cities as compared to 30.5% and 6.8% from Suburban and Rural cities respectively. However, average fare per ride and driver in Urban is comparably lower than Rural and Suburban. It can bee seen that Rural cities had lowest number of rides, drivers count and fares but it had highest amount of average fare per ride and driver as compared to other. Even though we are comparing three different city types where customers and demands are different, we see a particular trend that is, as the number of rides, drivers and total fares increase, the average fare per ride and per drivers also starts to decrease. This can be further supported by pie charts.
 
 ![Fig6](https://user-images.githubusercontent.com/86980240/134592697-64a7942c-72a6-4216-ae32-83f7783be81c.png)
 
@@ -30,11 +30,11 @@ After calculating all the metrics and combining them into one dataframe, we can 
 
 From above dataframe and different pie charts, following conclusions and recommendations can be drawn:
 
-1) Urban cities have highest amount of total fares and drivers which results in high ride counts. Company should further develop strategies to maintain the manpower and improve average fares per ride and drivers. It can be seen Pyber has ample amount of drivers already in Urban cities.
+1) Urban cities have highest amount of total fares and drivers which results in high ride counts. However, the company should notice that Urban cities account for 68.4% of total rides with 62.7% of total fares. Company should further develop strategies to maintain the manpower and improve average fares per ride and drivers. It can be seen, Pyber has ample amount of drivers already in Urban cities.
 
-2) Pyber should invest in Rural cities as number of drivers and total fares are less but average fare per rides and drivers is the highest. This is maybe because of long travel distance and less number of drivers. If the company try to market their services better and recruit more manpower accordingly, it can definitely improve on total fares and also it might perform better in terms of total rides. 
+2) Rural cities account for only 5.3% of total rides with just 6.8% of total fares but average fare per rides and drivers is the highest. This is maybe because of long travel distance and lesser number of drivers. Pyber should look to invest in Rural cities as it has good potential. If the company try to market their services better and recruit more manpower accordingly, it can definitely improve on total fares and also it might perform better in terms of total rides. 
 
-3) As for Suburban, it stands neutral. Suburban cities are in the middle or look balanced in terms of ride counts, driver counts, total fares, average fares per ride and drivers. Therefore, Pyber can focus more on Urban and Rural cities.
+3) As for Suburban, it stands quite neutral. It accounts for 26.3% of total rides with 30.5% of total fares. Suburban cities look balanced in terms average fares per ride and drivers as compared to other two. Pyber can look to increase the number of drivers to improve rides and total fares. Moreover, Pyber can focus on Urban and Rural cities first. 
 
 
 
