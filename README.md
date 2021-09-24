@@ -17,13 +17,14 @@ After calculating all the metrics and combining them into one dataframe, we can 
 ![Fig7](https://user-images.githubusercontent.com/86980240/134592710-0af9f770-791e-4157-ab01-be51d4b0155f.png)
 
 
-<img width="326" alt="Screenshot (129)" src="https://user-images.githubusercontent.com/86980240/134603570-66d45de7-d816-4b22-9f00-562d5d303162.png">
-
-
 <img width="373" alt="Screenshot (130)" src="https://user-images.githubusercontent.com/86980240/134603875-25aabc26-96ee-4880-85e3-016e0d4b98da.png">
 
 
-![Screenshot (131)](https://user-images.githubusercontent.com/86980240/134604422-4fb79eff-239e-4ce7-94e5-8ecd845053f7.png)
+<img width="346" alt="Screenshot (131)" src="https://user-images.githubusercontent.com/86980240/134604519-b9892240-6415-441e-8e2b-3f045f682894.png">
+
+
+
+
 
 
 
