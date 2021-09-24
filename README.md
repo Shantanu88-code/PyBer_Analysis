@@ -23,7 +23,15 @@ After calculating all the metrics and combining them into one dataframe, we can 
 <img width="346" alt="Screenshot (131)" src="https://user-images.githubusercontent.com/86980240/134604519-b9892240-6415-441e-8e2b-3f045f682894.png">
 
 
+# Summary and Recommendations :
 
+From above dataframe and different pie charts, following conclusions and recommendations can be drawn:
+
+1) Urban cities have highest amount of total fares and drivers which results in high ride counts. Company should further develop strategies to maintain the manpower and improve average fares per ride and drivers. It can be seen Pyber has ample amount of drivers already in Urban cities.
+
+2) Pyber should invest in Rural cities as number of drivers and total fares are less but average fare per rides and drivers is the highest. This is maybe because of long travel distance and less number of drivers. If the company try to market their services better and recruit more manpower accordingly, it can definitely improve on total fares and also it might perform better in terms of total rides. 
+
+3) As for Suburban, it stands neutral. Suburban cities are in the middle or look balanced in terms of ride counts, driver counts, total fares, average fares per ride and drivers. Therefore, Pyber can focus more on Urban and Rural cities.
 
 
 
