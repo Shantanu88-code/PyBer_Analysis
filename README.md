@@ -9,12 +9,15 @@ In this analysis, we are analyzing all the rideshare data from January to early 
 
 <img width="454" alt="Pyber challenge" src="https://user-images.githubusercontent.com/86980240/134590487-3b6e3756-1b15-46c3-9a39-da5f602e8dfd.png">
 
-After calculating all the metrics and combining them into one dataframe, we can see that Urabn cities had highest number of ride count, drivers count and fares. However, average fare per ride and driver is comparably lower than Rural and Suburban. It can bee seen that Rural cities had lowest number of rides, drivers count and fares but it had highest amount of average fare per ride and driver as compared to other. Even though we are comparing three different city types where customers and demands are different, we see a particular trend that is, as the number of rides, drivers and total fares increase, the average fare per ride and per drivers also starts to decrease. This can be further supported by pie charts.
+After calculating all the metrics and combining them into one dataframe, we can see that Urabn cities had highest number of ride count, drivers count and fares. Pyber gets 62.7% of its fares from Urban cities as compared to 30.5% and 6.8% from Suburban and Rural cities respectively. However, average fare per ride and driver is comparably lower than Rural and Suburban. It can bee seen that Rural cities had lowest number of rides, drivers count and fares but it had highest amount of average fare per ride and driver as compared to other. Even though we are comparing three different city types where customers and demands are different, we see a particular trend that is, as the number of rides, drivers and total fares increase, the average fare per ride and per drivers also starts to decrease. This can be further supported by pie charts.
 
 ![Fig6](https://user-images.githubusercontent.com/86980240/134592697-64a7942c-72a6-4216-ae32-83f7783be81c.png)
 
 
 ![Fig7](https://user-images.githubusercontent.com/86980240/134592710-0af9f770-791e-4157-ab01-be51d4b0155f.png)
+
+
+![fig11](https://user-images.githubusercontent.com/86980240/134611176-b881513e-7b14-4d7d-bd58-4996bf733130.png)
 
 
 <img width="289" alt="Screenshot (133)" src="https://user-images.githubusercontent.com/86980240/134609993-e7fa4c3b-53cb-4c0b-9844-c6adca9d1aa3.png">
