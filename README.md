@@ -25,6 +25,7 @@ Even though we are comparing three different city types where customers and dema
 
 
 
+
 # Summary and Recommendations :
 
 From above dataframe and different pie charts, following conclusions and recommendations can be drawn:
