@@ -21,7 +21,14 @@ Even though we are comparing three different city types where customers and dema
 ![Fig7](https://user-images.githubusercontent.com/86980240/134592710-0af9f770-791e-4157-ab01-be51d4b0155f.png)
 
 
-![fig12](https://user-images.githubusercontent.com/86980240/134611603-f2c356d0-0b54-4e69-b5db-58753d7bf8c6.png)
+![fig14](https://user-images.githubusercontent.com/86980240/135379029-61cf7ff4-9f94-4027-af19-a7175df288f2.png)
+
+
+![fig11](https://user-images.githubusercontent.com/86980240/135379069-e00ef17c-8a44-46fa-bb90-a66ae06ada5f.png)
+
+
+![fig12](https://user-images.githubusercontent.com/86980240/135379108-66675a89-85de-43c5-8bcd-b3e6ec6ddb9b.png)
+
 
 
 
