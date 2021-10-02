@@ -12,8 +12,6 @@ In this analysis, we are analyzing all the rideshare data from January to early 
 
 After calculating all the metrics and combining them into one dataframe, we can see that Urabn cities had highest number of ride count, drivers count and fares. Pyber gets 62.7% of its fares from Urban cities as compared to 30.5% and 6.8% from Suburban and Rural cities respectively. However, average fare per ride and driver in Urban is comparably lower than Rural and Suburban. It can bee seen that Rural cities had lowest number of rides, drivers and fares but it had highest amount of average fare per ride and driver as compared to other. Also, in the following line chart, we can see all three city types saw an increase in fares in late February, while most of the time, the graph keeps fluctuating. And then in early weeks of April, we see a spike in fares in Suburban.
 
-![fig8](https://user-images.githubusercontent.com/86980240/134614350-91496059-ce66-4ef7-9fda-3122db78126c.png)
-
 Even though we are comparing three different city types where customers and demands are different, we see a particular trend that is, as the number of rides, drivers and total fares increase, the average fare per ride and per drivers also starts to decrease. This can be further supported by pie charts.
 
 ![Fig6](https://user-images.githubusercontent.com/86980240/134592697-64a7942c-72a6-4216-ae32-83f7783be81c.png)
